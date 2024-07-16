@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34227.203
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess.csproj", "{E516D3ED-4848-42B1-B205-654B364D75E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E516D3ED-4848-42B1-B205-654B364D75E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E516D3ED-4848-42B1-B205-654B364D75E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E516D3ED-4848-42B1-B205-654B364D75E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E516D3ED-4848-42B1-B205-654B364D75E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7D43FA5-AB66-4463-9259-5880446CB03C}
+	EndGlobalSection
+EndGlobal
