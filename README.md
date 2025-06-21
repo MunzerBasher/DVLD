@@ -61,9 +61,8 @@ Clone the Repository:
 
 Bash
 
-git clone https://github.com/your-username/DVLD.git
+git clone https://github.com/MunzerBasher/DVLD.git
 cd DVLD
-(Replace your-username/DVLD.git with the actual repository URL)
 
 Restore NuGet Packages:
 Open the solution in Visual Studio and allow NuGet to restore any necessary packages.
